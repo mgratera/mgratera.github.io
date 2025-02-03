@@ -1,0 +1,64 @@
+body {
+    background-color: #16365d;
+}
+h1 {
+    text-align:right
+}
+
+.okie{
+    color:red;
+    text-decoration: underline;
+}
+.hdka{
+    color:deeppink
+}
+
+h2{
+    color:red;
+    text-align: center;
+}
+.real{
+    color:yellow;
+    text-decoration: underline;
+}
+
+.jye{
+    color:blue
+}
+.lucky{
+    color:forestgreen
+}
+h3{
+   width: 50%;
+   height:55px;
+   border-left:1px solid red;
+   border-top:1px solid red;
+   color:white;
+    background-color: black;
+
+}
+.lay{
+    text-align:right;
+}
+.jay{
+    background-color:green
+}
+
+h4{
+    color:rgb(17, 112, 17)
+}
+.jie{
+    background-color: black;
+    border-left: 1px solid red;
+    color:white;
+}
+h5{
+    width:300px;
+    border-bottom: 1px solid yellow;
+    color: yellow
+
+}
+.edj{
+    background-color: red;
+    color: white
+}
